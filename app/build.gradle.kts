@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gandalf"
+    namespace = "com.gandalf.beat"
     compileSdk = 35
 
     defaultConfig {
